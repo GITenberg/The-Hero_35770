@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '37891'
     url: http://www.gutenberg.org/2009/agents/37891
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35770#The-Hero
 gutenberg_issued: '2011-04-04'
 gutenberg_type: Text
 identifiers:
